@@ -77,9 +77,9 @@ export default {
           to: '/',
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
+          icon: 'mdi-account',
+          title: 'employee',
+          to: '/employee',
         },
       ],
       miniVariant: false,
